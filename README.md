@@ -1,0 +1,1 @@
+# ScottBrady91.AspNet.Identity.ConfigurablePasswordHasher
