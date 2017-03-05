@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ScottBrady91.AspNet.Identity.ConfigurablePasswordHasher.Tests")]
+[assembly: AssemblyTitle("ScottBrady91.AspNet.Identity.ConfigurablePasswordHasher")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ScottBrady91.AspNet.Identity.ConfigurablePasswordHasher.Tests")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
+[assembly: AssemblyProduct("ScottBrady91.AspNet.Identity.ConfigurablePasswordHasher")]
+[assembly: AssemblyCopyright("Copyright © 2017 Scott Brady")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("52846d9b-0add-43e0-b3ab-1a42be584ff4")]
+[assembly: Guid("cd690c35-5e01-42e2-985b-5c2cbff125de")]
 
 // Version information for an assembly consists of the following four values:
 //
